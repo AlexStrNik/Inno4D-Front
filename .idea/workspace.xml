@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d631f52b-c515-4338-97ec-932a71e307a1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/inno4d-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/logo-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/logo-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphql.config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphql.schema.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Utils.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/buildings.geojson" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/webpack.config.dev.js" afterPath="$PROJECT_DIR$/config/webpack.config.dev.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/manifest.json" afterPath="$PROJECT_DIR$/public/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/build.js" afterPath="$PROJECT_DIR$/scripts/build.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/start.js" afterPath="$PROJECT_DIR$/scripts/start.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/test.js" afterPath="$PROJECT_DIR$/scripts/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="108" lean-forward="false" selection-start-line="45" selection-start-column="108" selection-end-line="45" selection-end-column="108" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="57" column="26" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+                <element signature="e#1130#1272#0" expanded="false" />
+                <element signature="e#1396#1638#0" expanded="false" />
+                <marker date="1535049628341" expanded="true" signature="3333:3574" ph="query...{&#10;              myUser(token: &quot;${this.state.token}&quot;){&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }&#10;          }" />
+                <marker date="1535049628341" expanded="true" signature="3339:3574" ph="{...}" />
+                <marker date="1535049628341" expanded="true" signature="3355:3361" ph="myUser...myUser" />
+                <marker date="1535049628341" expanded="true" signature="3355:3562" ph="myUser...{&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }" />
+                <marker date="1535049628341" expanded="true" signature="3361:3385" ph="(...)" />
+                <marker date="1535049628341" expanded="true" signature="3362:3367" ph="token...token" />
+                <marker date="1535049628341" expanded="true" signature="3385:3562" ph="{...}" />
+                <marker date="1535049628341" expanded="true" signature="3405:3410" ph="login...login" />
+                <marker date="1535049628341" expanded="true" signature="3429:3436" ph="isAdmin...isAdmin" />
+                <marker date="1535049628341" expanded="true" signature="3455:3464" ph="isNewUser...isNewUser" />
+                <marker date="1535049628341" expanded="true" signature="3483:3492" ph="firstName...firstName" />
+                <marker date="1535049628341" expanded="true" signature="3511:3521" ph="secondName...secondName" />
+                <marker date="1535049628341" expanded="true" signature="3540:3546" ph="userId...userId" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Map.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="348" column="29" lean-forward="true" selection-start-line="348" selection-start-column="29" selection-end-line="348" selection-end-column="29" />
+              <folding>
+                <element signature="e#215#272#0" expanded="true" />
+                <element signature="n#!!block;n#loadChat#0;n#Map#0" expanded="false" />
+                <element signature="n#!!block;n#loadCommerce#0;n#Map#0" expanded="false" />
+                <element signature="n#!!block;n#save#0;n#Map#0" expanded="false" />
+                <element signature="e#7547#10333#0" expanded="false" />
+                <element signature="e#10344#12371#0" expanded="false" />
+                <marker date="1535058117072" expanded="true" signature="1475:1557" ph="query...{&#10;              buildingsJson&#10;          }" />
+                <marker date="1535058117072" expanded="true" signature="1481:1488" ph="GeoJson...GeoJson" />
+                <marker date="1535058117072" expanded="true" signature="1489:1557" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="1505:1518" ph="buildingsJson...buildingsJson" />
+                <marker date="1535058117072" expanded="true" signature="1533:1545" ph="commerceJson...commerceJson" />
+                <marker date="1535058117072" expanded="true" signature="4375:4836" ph="query...{&#10;              buildingsJson&#10;              commerceJson&#10;          }" />
+                <marker date="1535058117072" expanded="true" signature="4381:4387" ph="AllMes...AllMes" />
+                <marker date="1535058117072" expanded="true" signature="4381:4392" ph="AllMessages...AllMessages" />
+                <marker date="1535058117072" expanded="true" signature="4393:4836" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="4409:4420" ph="allMessages...allMessages" />
+                <marker date="1535058117072" expanded="true" signature="4409:4824" ph="allMessages...{&#10;                  text&#10;                  date&#10;                  user{&#10;                      firstName&#10;                      secondName&#10;                  }&#10;              }" />
+                <marker date="1535058117072" expanded="true" signature="4420:4824" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="4440:4444" ph="text...text" />
+                <marker date="1535058117072" expanded="true" signature="4463:4472" ph="messageId...messageId" />
+                <marker date="1535058117072" expanded="true" signature="4491:4495" ph="date...date" />
+                <marker date="1535058117072" expanded="true" signature="4514:4526" ph="replyMessage...replyMessage" />
+                <marker date="1535058117072" expanded="true" signature="4514:4699" ph="replyMessage...{&#10;                      user{&#10;                          login&#10;                      }&#10;                      text&#10;                  }" />
+                <marker date="1535058117072" expanded="true" signature="4526:4699" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="4550:4554" ph="user...user" />
+                <marker date="1535058117072" expanded="true" signature="4550:4652" ph="user...{&#10;                          login&#10;                      }" />
+                <marker date="1535058117072" expanded="true" signature="4554:4652" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="4582:4591" ph="firstName...firstName" />
+                <marker date="1535058117072" expanded="true" signature="4582:4628" ph="login...login" />
+                <marker date="1535058117072" expanded="true" signature="4618:4628" ph="secondName...secondName" />
+                <marker date="1535058117072" expanded="true" signature="4675:4679" ph="text...text" />
+                <marker date="1535058117072" expanded="true" signature="4718:4722" ph="user...user" />
+                <marker date="1535058117072" expanded="true" signature="4718:4808" ph="user...{&#10;                      firstName&#10;                      secondName&#10;                  }" />
+                <marker date="1535058117072" expanded="true" signature="4722:4808" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="4746:4755" ph="firstName...firstName" />
+                <marker date="1535058117072" expanded="true" signature="4778:4788" ph="secondName...secondName" />
+                <marker date="1535058117072" expanded="true" signature="5188:5477" ph="query...{&#10;              commerceById(id: 53){&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }&#10;          }" />
+                <marker date="1535058117072" expanded="true" signature="5193:5465" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="5193:5477" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="5194:5465" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="5209:5221" ph="commerceById...commerceById" />
+                <marker date="1535058117072" expanded="true" signature="5209:5465" ph="commerceById...{&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }" />
+                <marker date="1535058117072" expanded="true" signature="5221:5232" ph="(...)" />
+                <marker date="1535058117072" expanded="true" signature="5222:5224" ph="id...id" />
+                <marker date="1535058117072" expanded="true" signature="5232:5465" ph="{...}" />
+                <marker date="1535058117072" expanded="true" signature="5252:5256" ph="name...name" />
+                <marker date="1535058117072" expanded="true" signature="5275:5285" ph="rentalRate...rentalRate" />
+                <marker date="1535058117072" expanded="true" signature="5304:5311" ph="address...address" />
+                <marker date="1535058117072" expanded="true" signature="5330:5332" ph="id...id" />
+                <marker date="1535058117072" expanded="true" signature="5351:5355" ph="area...area" />
+                <marker date="1535058117072" expanded="true" signature="5374:5381" ph="idHouse...idHouse" />
+                <marker date="1535058117072" expanded="true" signature="5420:5426" ph="status...status" />
+                <marker date="1535058117072" expanded="true" signature="5445:5449" ph="type...type" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Account.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="38" column="61" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1535047003144" expanded="true" signature="1395:1991" ph="mutation...{&#10;                authUser(password: &quot;${password}&quot;, username: &quot;${login}&quot;){&#10;                    accessToken&#10;                    refreshToken&#10;                }&#10;            }" />
+                <marker date="1535047003144" expanded="true" signature="1403:1991" ph="{...}" />
+                <marker date="1535047003144" expanded="true" signature="1421:1429" ph="editUser...editUser" />
+                <marker date="1535047003144" expanded="true" signature="1421:1977" ph="editUser...{&#10;                    user{&#10;                        firstName&#10;                    }&#10;                }" />
+                <marker date="1535047003144" expanded="true" signature="1429:1759" ph="(...)" />
+                <marker date="1535047003144" expanded="true" signature="1429:1780" ph="(...)" />
+                <marker date="1535047003144" expanded="true" signature="1430:1435" ph="input...input" />
+                <marker date="1535047003144" expanded="true" signature="1430:1749" ph="input...{&#10;                    firstName: &quot;aaaa&quot;&#10;                }" />
+                <marker date="1535047003144" expanded="true" signature="1437:1463" ph="{...}" />
+                <marker date="1535047003144" expanded="true" signature="1437:1666" ph="{...}" />
+                <marker date="1535047003144" expanded="true" signature="1437:1749" ph="{...}" />
+                <marker date="1535047003144" expanded="true" signature="1459:1461" ph="id...id" />
+                <marker date="1535047003144" expanded="true" signature="1509:1518" ph="isNewUser...isNewUser" />
+                <marker date="1535047003144" expanded="true" signature="1546:1555" ph="firstName...firstName" />
+                <marker date="1535047003144" expanded="true" signature="1605:1615" ph="secondName...secondName" />
+                <marker date="1535047003144" expanded="true" signature="1751:1756" ph="token...token" />
+                <marker date="1535047003144" expanded="true" signature="1780:1977" ph="{...}" />
+                <marker date="1535047003144" expanded="true" signature="1802:1806" ph="user...user" />
+                <marker date="1535047003144" expanded="true" signature="1802:1959" ph="user...{&#10;                        firstName&#10;                    }" />
+                <marker date="1535047003144" expanded="true" signature="1806:1959" ph="{...}" />
+                <marker date="1535047003144" expanded="true" signature="1832:1841" ph="firstName...firstName" />
+                <marker date="1535047003144" expanded="true" signature="1866:1876" ph="secondName...secondName" />
+                <marker date="1535047003144" expanded="true" signature="1901:1906" ph="login...login" />
+                <marker date="1535047003144" expanded="true" signature="1931:1937" ph="userId...userId" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>парк</find>
+      <find>#([a-zA-Z])+</find>
+      <find>&quot;([a-zA-Z]+)&quot;</find>
+      <find>ent</find>
+      <find>&quot;</find>
+      <find>state</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$1</replace>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/start.js" />
+        <option value="$PROJECT_DIR$/config/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/InnoMini/Style.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/InnoMini/style.css" />
+        <option value="$PROJECT_DIR$/src/InnoMini/Button.js" />
+        <option value="$PROJECT_DIR$/graphql.config.json" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/Utils.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/Account.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/Login.js" />
+        <option value="$PROJECT_DIR$/src/Map.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Inno4D-Front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inno4D-Front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inno4D-Front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inno4D-Front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../attheme-editor/node_modules/eslint/bin" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\alexa\WebstormProjects\Inno4D-Front\node_modules\eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="C:\Users\alexa\WebstormProjects\Inno4D-Front\node_modules\eslint" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="com.intellij.lang.jsgraphql.ide.injection.JSGraphQLLanguageInjectionUtil.gql" value="apollo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\WebstormProjects\Inno4D-Front\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\WebstormProjects\Inno4D-Front\src" />
+      <recent name="C:\Users\alexa\WebstormProjects\Inno4D-Front\build" />
+      <recent name="C:\Users\alexa\WebstormProjects\Inno4D-Front\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d631f52b-c515-4338-97ec-932a71e307a1" name="Default" comment="" />
+      <created>1534488770387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534488770387</updated>
+      <workItem from="1534488773029" duration="9186000" />
+      <workItem from="1534537671419" duration="2096000" />
+      <workItem from="1534576870225" duration="3236000" />
+      <workItem from="1534589590240" duration="7628000" />
+      <workItem from="1534623983933" duration="36737000" />
+      <workItem from="1534768705339" duration="434000" />
+      <workItem from="1534771238698" duration="3613000" />
+      <workItem from="1534839150007" duration="537000" />
+      <workItem from="1534841828348" duration="3578000" />
+      <workItem from="1534883046235" duration="14144000" />
+      <workItem from="1534971713240" duration="29738000" />
+      <workItem from="1535035518256" duration="821000" />
+      <workItem from="1535041033199" duration="3452000" />
+      <workItem from="1535045383982" duration="8645000" />
+      <workItem from="1535104404540" duration="1882000" />
+    </task>
+    <task id="LOCAL-00001" summary="COMM">
+      <created>1534497915272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534497915273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125727000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19364598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3223684" sideWeight="0.5075643" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31743422" sideWeight="0.4924357" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="COMM" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMM" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="100" column="24" lean-forward="false" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
+          <folding>
+            <element signature="e#215#272#0" expanded="true" />
+            <element signature="n#!!block;n#loadChat#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#loadCommerce#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#save#0;n#Map#0" expanded="false" />
+            <element signature="e#7547#10333#0" expanded="false" />
+            <element signature="e#10344#12371#0" expanded="false" />
+            <marker date="1535058117072" expanded="true" signature="1475:1557" ph="query...{&#10;              buildingsJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="1481:1488" ph="GeoJson...GeoJson" />
+            <marker date="1535058117072" expanded="true" signature="1489:1557" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="1505:1518" ph="buildingsJson...buildingsJson" />
+            <marker date="1535058117072" expanded="true" signature="1533:1545" ph="commerceJson...commerceJson" />
+            <marker date="1535058117072" expanded="true" signature="4375:4836" ph="query...{&#10;              buildingsJson&#10;              commerceJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="4381:4387" ph="AllMes...AllMes" />
+            <marker date="1535058117072" expanded="true" signature="4381:4392" ph="AllMessages...AllMessages" />
+            <marker date="1535058117072" expanded="true" signature="4393:4836" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4409:4420" ph="allMessages...allMessages" />
+            <marker date="1535058117072" expanded="true" signature="4409:4824" ph="allMessages...{&#10;                  text&#10;                  date&#10;                  user{&#10;                      firstName&#10;                      secondName&#10;                  }&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="4420:4824" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4440:4444" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4463:4472" ph="messageId...messageId" />
+            <marker date="1535058117072" expanded="true" signature="4491:4495" ph="date...date" />
+            <marker date="1535058117072" expanded="true" signature="4514:4526" ph="replyMessage...replyMessage" />
+            <marker date="1535058117072" expanded="true" signature="4514:4699" ph="replyMessage...{&#10;                      user{&#10;                          login&#10;                      }&#10;                      text&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4526:4699" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4550:4554" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4550:4652" ph="user...{&#10;                          login&#10;                      }" />
+            <marker date="1535058117072" expanded="true" signature="4554:4652" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4582:4591" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4582:4628" ph="login...login" />
+            <marker date="1535058117072" expanded="true" signature="4618:4628" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="4675:4679" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4718:4722" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4718:4808" ph="user...{&#10;                      firstName&#10;                      secondName&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4722:4808" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4746:4755" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4778:4788" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="5188:5477" ph="query...{&#10;              commerceById(id: 53){&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="5193:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5193:5477" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5194:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5209:5221" ph="commerceById...commerceById" />
+            <marker date="1535058117072" expanded="true" signature="5209:5465" ph="commerceById...{&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="5221:5232" ph="(...)" />
+            <marker date="1535058117072" expanded="true" signature="5222:5224" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5232:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5252:5256" ph="name...name" />
+            <marker date="1535058117072" expanded="true" signature="5275:5285" ph="rentalRate...rentalRate" />
+            <marker date="1535058117072" expanded="true" signature="5304:5311" ph="address...address" />
+            <marker date="1535058117072" expanded="true" signature="5330:5332" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5351:5355" ph="area...area" />
+            <marker date="1535058117072" expanded="true" signature="5374:5381" ph="idHouse...idHouse" />
+            <marker date="1535058117072" expanded="true" signature="5420:5426" ph="status...status" />
+            <marker date="1535058117072" expanded="true" signature="5445:5449" ph="type...type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#1130#1272#0" expanded="false" />
+            <element signature="e#1396#1638#0" expanded="false" />
+            <marker date="1535049628341" expanded="true" signature="3333:3574" ph="query...{&#10;              myUser(token: &quot;${this.state.token}&quot;){&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }&#10;          }" />
+            <marker date="1535049628341" expanded="true" signature="3339:3574" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3355:3361" ph="myUser...myUser" />
+            <marker date="1535049628341" expanded="true" signature="3355:3562" ph="myUser...{&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }" />
+            <marker date="1535049628341" expanded="true" signature="3361:3385" ph="(...)" />
+            <marker date="1535049628341" expanded="true" signature="3362:3367" ph="token...token" />
+            <marker date="1535049628341" expanded="true" signature="3385:3562" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3405:3410" ph="login...login" />
+            <marker date="1535049628341" expanded="true" signature="3429:3436" ph="isAdmin...isAdmin" />
+            <marker date="1535049628341" expanded="true" signature="3455:3464" ph="isNewUser...isNewUser" />
+            <marker date="1535049628341" expanded="true" signature="3483:3492" ph="firstName...firstName" />
+            <marker date="1535049628341" expanded="true" signature="3511:3521" ph="secondName...secondName" />
+            <marker date="1535049628341" expanded="true" signature="3540:3546" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="108" lean-forward="false" selection-start-line="38" selection-start-column="108" selection-end-line="38" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="55" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1535047003144" expanded="true" signature="1395:1991" ph="mutation...{&#10;                authUser(password: &quot;${password}&quot;, username: &quot;${login}&quot;){&#10;                    accessToken&#10;                    refreshToken&#10;                }&#10;            }" />
+            <marker date="1535047003144" expanded="true" signature="1403:1991" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1421:1429" ph="editUser...editUser" />
+            <marker date="1535047003144" expanded="true" signature="1421:1977" ph="editUser...{&#10;                    user{&#10;                        firstName&#10;                    }&#10;                }" />
+            <marker date="1535047003144" expanded="true" signature="1429:1759" ph="(...)" />
+            <marker date="1535047003144" expanded="true" signature="1429:1780" ph="(...)" />
+            <marker date="1535047003144" expanded="true" signature="1430:1435" ph="input...input" />
+            <marker date="1535047003144" expanded="true" signature="1430:1749" ph="input...{&#10;                    firstName: &quot;aaaa&quot;&#10;                }" />
+            <marker date="1535047003144" expanded="true" signature="1437:1463" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1437:1666" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1437:1749" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1459:1461" ph="id...id" />
+            <marker date="1535047003144" expanded="true" signature="1509:1518" ph="isNewUser...isNewUser" />
+            <marker date="1535047003144" expanded="true" signature="1546:1555" ph="firstName...firstName" />
+            <marker date="1535047003144" expanded="true" signature="1605:1615" ph="secondName...secondName" />
+            <marker date="1535047003144" expanded="true" signature="1751:1756" ph="token...token" />
+            <marker date="1535047003144" expanded="true" signature="1780:1977" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1802:1806" ph="user...user" />
+            <marker date="1535047003144" expanded="true" signature="1802:1959" ph="user...{&#10;                        firstName&#10;                    }" />
+            <marker date="1535047003144" expanded="true" signature="1806:1959" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1832:1841" ph="firstName...firstName" />
+            <marker date="1535047003144" expanded="true" signature="1866:1876" ph="secondName...secondName" />
+            <marker date="1535047003144" expanded="true" signature="1901:1906" ph="login...login" />
+            <marker date="1535047003144" expanded="true" signature="1931:1937" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <element signature="e#215#272#0" expanded="true" />
+            <element signature="n#!!block;n#loadChat#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#loadCommerce#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#save#0;n#Map#0" expanded="false" />
+            <element signature="e#7547#10333#0" expanded="false" />
+            <element signature="e#10344#12371#0" expanded="false" />
+            <marker date="1535058117072" expanded="true" signature="1475:1557" ph="query...{&#10;              buildingsJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="1481:1488" ph="GeoJson...GeoJson" />
+            <marker date="1535058117072" expanded="true" signature="1489:1557" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="1505:1518" ph="buildingsJson...buildingsJson" />
+            <marker date="1535058117072" expanded="true" signature="1533:1545" ph="commerceJson...commerceJson" />
+            <marker date="1535058117072" expanded="true" signature="4375:4836" ph="query...{&#10;              buildingsJson&#10;              commerceJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="4381:4387" ph="AllMes...AllMes" />
+            <marker date="1535058117072" expanded="true" signature="4381:4392" ph="AllMessages...AllMessages" />
+            <marker date="1535058117072" expanded="true" signature="4393:4836" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4409:4420" ph="allMessages...allMessages" />
+            <marker date="1535058117072" expanded="true" signature="4409:4824" ph="allMessages...{&#10;                  text&#10;                  date&#10;                  user{&#10;                      firstName&#10;                      secondName&#10;                  }&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="4420:4824" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4440:4444" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4463:4472" ph="messageId...messageId" />
+            <marker date="1535058117072" expanded="true" signature="4491:4495" ph="date...date" />
+            <marker date="1535058117072" expanded="true" signature="4514:4526" ph="replyMessage...replyMessage" />
+            <marker date="1535058117072" expanded="true" signature="4514:4699" ph="replyMessage...{&#10;                      user{&#10;                          login&#10;                      }&#10;                      text&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4526:4699" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4550:4554" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4550:4652" ph="user...{&#10;                          login&#10;                      }" />
+            <marker date="1535058117072" expanded="true" signature="4554:4652" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4582:4591" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4582:4628" ph="login...login" />
+            <marker date="1535058117072" expanded="true" signature="4618:4628" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="4675:4679" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4718:4722" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4718:4808" ph="user...{&#10;                      firstName&#10;                      secondName&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4722:4808" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4746:4755" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4778:4788" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="5188:5477" ph="query...{&#10;              commerceById(id: 53){&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="5193:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5193:5477" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5194:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5209:5221" ph="commerceById...commerceById" />
+            <marker date="1535058117072" expanded="true" signature="5209:5465" ph="commerceById...{&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="5221:5232" ph="(...)" />
+            <marker date="1535058117072" expanded="true" signature="5222:5224" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5232:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5252:5256" ph="name...name" />
+            <marker date="1535058117072" expanded="true" signature="5275:5285" ph="rentalRate...rentalRate" />
+            <marker date="1535058117072" expanded="true" signature="5304:5311" ph="address...address" />
+            <marker date="1535058117072" expanded="true" signature="5330:5332" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5351:5355" ph="area...area" />
+            <marker date="1535058117072" expanded="true" signature="5374:5381" ph="idHouse...idHouse" />
+            <marker date="1535058117072" expanded="true" signature="5420:5426" ph="status...status" />
+            <marker date="1535058117072" expanded="true" signature="5445:5449" ph="type...type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="55" column="53" lean-forward="false" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#1130#1272#0" expanded="false" />
+            <element signature="e#1396#1638#0" expanded="false" />
+            <marker date="1535049628341" expanded="true" signature="3333:3574" ph="query...{&#10;              myUser(token: &quot;${this.state.token}&quot;){&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }&#10;          }" />
+            <marker date="1535049628341" expanded="true" signature="3339:3574" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3355:3361" ph="myUser...myUser" />
+            <marker date="1535049628341" expanded="true" signature="3355:3562" ph="myUser...{&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }" />
+            <marker date="1535049628341" expanded="true" signature="3361:3385" ph="(...)" />
+            <marker date="1535049628341" expanded="true" signature="3362:3367" ph="token...token" />
+            <marker date="1535049628341" expanded="true" signature="3385:3562" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3405:3410" ph="login...login" />
+            <marker date="1535049628341" expanded="true" signature="3429:3436" ph="isAdmin...isAdmin" />
+            <marker date="1535049628341" expanded="true" signature="3455:3464" ph="isNewUser...isNewUser" />
+            <marker date="1535049628341" expanded="true" signature="3483:3492" ph="firstName...firstName" />
+            <marker date="1535049628341" expanded="true" signature="3511:3521" ph="secondName...secondName" />
+            <marker date="1535049628341" expanded="true" signature="3540:3546" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="108" lean-forward="false" selection-start-line="37" selection-start-column="108" selection-end-line="37" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#1130#1272#0" expanded="false" />
+            <element signature="e#1396#1638#0" expanded="false" />
+            <marker date="1535049628341" expanded="true" signature="3333:3574" ph="query...{&#10;              myUser(token: &quot;${this.state.token}&quot;){&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }&#10;          }" />
+            <marker date="1535049628341" expanded="true" signature="3339:3574" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3355:3361" ph="myUser...myUser" />
+            <marker date="1535049628341" expanded="true" signature="3355:3562" ph="myUser...{&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }" />
+            <marker date="1535049628341" expanded="true" signature="3361:3385" ph="(...)" />
+            <marker date="1535049628341" expanded="true" signature="3362:3367" ph="token...token" />
+            <marker date="1535049628341" expanded="true" signature="3385:3562" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3405:3410" ph="login...login" />
+            <marker date="1535049628341" expanded="true" signature="3429:3436" ph="isAdmin...isAdmin" />
+            <marker date="1535049628341" expanded="true" signature="3455:3464" ph="isNewUser...isNewUser" />
+            <marker date="1535049628341" expanded="true" signature="3483:3492" ph="firstName...firstName" />
+            <marker date="1535049628341" expanded="true" signature="3511:3521" ph="secondName...secondName" />
+            <marker date="1535049628341" expanded="true" signature="3540:3546" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="55" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1535047003144" expanded="true" signature="1395:1991" ph="mutation...{&#10;                authUser(password: &quot;${password}&quot;, username: &quot;${login}&quot;){&#10;                    accessToken&#10;                    refreshToken&#10;                }&#10;            }" />
+            <marker date="1535047003144" expanded="true" signature="1403:1991" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1421:1429" ph="editUser...editUser" />
+            <marker date="1535047003144" expanded="true" signature="1421:1977" ph="editUser...{&#10;                    user{&#10;                        firstName&#10;                    }&#10;                }" />
+            <marker date="1535047003144" expanded="true" signature="1429:1759" ph="(...)" />
+            <marker date="1535047003144" expanded="true" signature="1429:1780" ph="(...)" />
+            <marker date="1535047003144" expanded="true" signature="1430:1435" ph="input...input" />
+            <marker date="1535047003144" expanded="true" signature="1430:1749" ph="input...{&#10;                    firstName: &quot;aaaa&quot;&#10;                }" />
+            <marker date="1535047003144" expanded="true" signature="1437:1463" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1437:1666" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1437:1749" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1459:1461" ph="id...id" />
+            <marker date="1535047003144" expanded="true" signature="1509:1518" ph="isNewUser...isNewUser" />
+            <marker date="1535047003144" expanded="true" signature="1546:1555" ph="firstName...firstName" />
+            <marker date="1535047003144" expanded="true" signature="1605:1615" ph="secondName...secondName" />
+            <marker date="1535047003144" expanded="true" signature="1751:1756" ph="token...token" />
+            <marker date="1535047003144" expanded="true" signature="1780:1977" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1802:1806" ph="user...user" />
+            <marker date="1535047003144" expanded="true" signature="1802:1959" ph="user...{&#10;                        firstName&#10;                    }" />
+            <marker date="1535047003144" expanded="true" signature="1806:1959" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1832:1841" ph="firstName...firstName" />
+            <marker date="1535047003144" expanded="true" signature="1866:1876" ph="secondName...secondName" />
+            <marker date="1535047003144" expanded="true" signature="1901:1906" ph="login...login" />
+            <marker date="1535047003144" expanded="true" signature="1931:1937" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="152" column="95" lean-forward="false" selection-start-line="152" selection-start-column="95" selection-end-line="152" selection-end-column="95" />
+          <folding>
+            <element signature="e#215#272#0" expanded="true" />
+            <element signature="n#!!block;n#loadChat#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#loadCommerce#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#save#0;n#Map#0" expanded="false" />
+            <element signature="e#7547#10333#0" expanded="false" />
+            <element signature="e#10344#12371#0" expanded="false" />
+            <marker date="1535058117072" expanded="true" signature="1475:1557" ph="query...{&#10;              buildingsJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="1481:1488" ph="GeoJson...GeoJson" />
+            <marker date="1535058117072" expanded="true" signature="1489:1557" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="1505:1518" ph="buildingsJson...buildingsJson" />
+            <marker date="1535058117072" expanded="true" signature="1533:1545" ph="commerceJson...commerceJson" />
+            <marker date="1535058117072" expanded="true" signature="4375:4836" ph="query...{&#10;              buildingsJson&#10;              commerceJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="4381:4387" ph="AllMes...AllMes" />
+            <marker date="1535058117072" expanded="true" signature="4381:4392" ph="AllMessages...AllMessages" />
+            <marker date="1535058117072" expanded="true" signature="4393:4836" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4409:4420" ph="allMessages...allMessages" />
+            <marker date="1535058117072" expanded="true" signature="4409:4824" ph="allMessages...{&#10;                  text&#10;                  date&#10;                  user{&#10;                      firstName&#10;                      secondName&#10;                  }&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="4420:4824" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4440:4444" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4463:4472" ph="messageId...messageId" />
+            <marker date="1535058117072" expanded="true" signature="4491:4495" ph="date...date" />
+            <marker date="1535058117072" expanded="true" signature="4514:4526" ph="replyMessage...replyMessage" />
+            <marker date="1535058117072" expanded="true" signature="4514:4699" ph="replyMessage...{&#10;                      user{&#10;                          login&#10;                      }&#10;                      text&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4526:4699" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4550:4554" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4550:4652" ph="user...{&#10;                          login&#10;                      }" />
+            <marker date="1535058117072" expanded="true" signature="4554:4652" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4582:4591" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4582:4628" ph="login...login" />
+            <marker date="1535058117072" expanded="true" signature="4618:4628" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="4675:4679" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4718:4722" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4718:4808" ph="user...{&#10;                      firstName&#10;                      secondName&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4722:4808" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4746:4755" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4778:4788" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="5188:5477" ph="query...{&#10;              commerceById(id: 53){&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="5193:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5193:5477" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5194:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5209:5221" ph="commerceById...commerceById" />
+            <marker date="1535058117072" expanded="true" signature="5209:5465" ph="commerceById...{&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="5221:5232" ph="(...)" />
+            <marker date="1535058117072" expanded="true" signature="5222:5224" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5232:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5252:5256" ph="name...name" />
+            <marker date="1535058117072" expanded="true" signature="5275:5285" ph="rentalRate...rentalRate" />
+            <marker date="1535058117072" expanded="true" signature="5304:5311" ph="address...address" />
+            <marker date="1535058117072" expanded="true" signature="5330:5332" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5351:5355" ph="area...area" />
+            <marker date="1535058117072" expanded="true" signature="5374:5381" ph="idHouse...idHouse" />
+            <marker date="1535058117072" expanded="true" signature="5420:5426" ph="status...status" />
+            <marker date="1535058117072" expanded="true" signature="5445:5449" ph="type...type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="28" lean-forward="false" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#1130#1272#0" expanded="false" />
+            <element signature="e#1396#1638#0" expanded="false" />
+            <marker date="1535049628341" expanded="true" signature="3333:3574" ph="query...{&#10;              myUser(token: &quot;${this.state.token}&quot;){&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }&#10;          }" />
+            <marker date="1535049628341" expanded="true" signature="3339:3574" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3355:3361" ph="myUser...myUser" />
+            <marker date="1535049628341" expanded="true" signature="3355:3562" ph="myUser...{&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }" />
+            <marker date="1535049628341" expanded="true" signature="3361:3385" ph="(...)" />
+            <marker date="1535049628341" expanded="true" signature="3362:3367" ph="token...token" />
+            <marker date="1535049628341" expanded="true" signature="3385:3562" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3405:3410" ph="login...login" />
+            <marker date="1535049628341" expanded="true" signature="3429:3436" ph="isAdmin...isAdmin" />
+            <marker date="1535049628341" expanded="true" signature="3455:3464" ph="isNewUser...isNewUser" />
+            <marker date="1535049628341" expanded="true" signature="3483:3492" ph="firstName...firstName" />
+            <marker date="1535049628341" expanded="true" signature="3511:3521" ph="secondName...secondName" />
+            <marker date="1535049628341" expanded="true" signature="3540:3546" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="28" lean-forward="false" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#1130#1272#0" expanded="false" />
+            <element signature="e#1396#1638#0" expanded="false" />
+            <marker date="1535049628341" expanded="true" signature="3333:3574" ph="query...{&#10;              myUser(token: &quot;${this.state.token}&quot;){&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }&#10;          }" />
+            <marker date="1535049628341" expanded="true" signature="3339:3574" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3355:3361" ph="myUser...myUser" />
+            <marker date="1535049628341" expanded="true" signature="3355:3562" ph="myUser...{&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }" />
+            <marker date="1535049628341" expanded="true" signature="3361:3385" ph="(...)" />
+            <marker date="1535049628341" expanded="true" signature="3362:3367" ph="token...token" />
+            <marker date="1535049628341" expanded="true" signature="3385:3562" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3405:3410" ph="login...login" />
+            <marker date="1535049628341" expanded="true" signature="3429:3436" ph="isAdmin...isAdmin" />
+            <marker date="1535049628341" expanded="true" signature="3455:3464" ph="isNewUser...isNewUser" />
+            <marker date="1535049628341" expanded="true" signature="3483:3492" ph="firstName...firstName" />
+            <marker date="1535049628341" expanded="true" signature="3511:3521" ph="secondName...secondName" />
+            <marker date="1535049628341" expanded="true" signature="3540:3546" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#215#272#0" expanded="true" />
+            <element signature="n#!!block;n#loadChat#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#loadCommerce#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#save#0;n#Map#0" expanded="false" />
+            <element signature="e#7547#10333#0" expanded="false" />
+            <element signature="e#10344#12371#0" expanded="false" />
+            <marker date="1535058117072" expanded="true" signature="1475:1557" ph="query...{&#10;              buildingsJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="1481:1488" ph="GeoJson...GeoJson" />
+            <marker date="1535058117072" expanded="true" signature="1489:1557" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="1505:1518" ph="buildingsJson...buildingsJson" />
+            <marker date="1535058117072" expanded="true" signature="1533:1545" ph="commerceJson...commerceJson" />
+            <marker date="1535058117072" expanded="true" signature="4375:4836" ph="query...{&#10;              buildingsJson&#10;              commerceJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="4381:4387" ph="AllMes...AllMes" />
+            <marker date="1535058117072" expanded="true" signature="4381:4392" ph="AllMessages...AllMessages" />
+            <marker date="1535058117072" expanded="true" signature="4393:4836" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4409:4420" ph="allMessages...allMessages" />
+            <marker date="1535058117072" expanded="true" signature="4409:4824" ph="allMessages...{&#10;                  text&#10;                  date&#10;                  user{&#10;                      firstName&#10;                      secondName&#10;                  }&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="4420:4824" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4440:4444" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4463:4472" ph="messageId...messageId" />
+            <marker date="1535058117072" expanded="true" signature="4491:4495" ph="date...date" />
+            <marker date="1535058117072" expanded="true" signature="4514:4526" ph="replyMessage...replyMessage" />
+            <marker date="1535058117072" expanded="true" signature="4514:4699" ph="replyMessage...{&#10;                      user{&#10;                          login&#10;                      }&#10;                      text&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4526:4699" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4550:4554" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4550:4652" ph="user...{&#10;                          login&#10;                      }" />
+            <marker date="1535058117072" expanded="true" signature="4554:4652" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4582:4591" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4582:4628" ph="login...login" />
+            <marker date="1535058117072" expanded="true" signature="4618:4628" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="4675:4679" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4718:4722" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4718:4808" ph="user...{&#10;                      firstName&#10;                      secondName&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4722:4808" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4746:4755" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4778:4788" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="5188:5477" ph="query...{&#10;              commerceById(id: 53){&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="5193:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5193:5477" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5194:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5209:5221" ph="commerceById...commerceById" />
+            <marker date="1535058117072" expanded="true" signature="5209:5465" ph="commerceById...{&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="5221:5232" ph="(...)" />
+            <marker date="1535058117072" expanded="true" signature="5222:5224" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5232:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5252:5256" ph="name...name" />
+            <marker date="1535058117072" expanded="true" signature="5275:5285" ph="rentalRate...rentalRate" />
+            <marker date="1535058117072" expanded="true" signature="5304:5311" ph="address...address" />
+            <marker date="1535058117072" expanded="true" signature="5330:5332" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5351:5355" ph="area...area" />
+            <marker date="1535058117072" expanded="true" signature="5374:5381" ph="idHouse...idHouse" />
+            <marker date="1535058117072" expanded="true" signature="5420:5426" ph="status...status" />
+            <marker date="1535058117072" expanded="true" signature="5445:5449" ph="type...type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buildings.geojson" />
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="28" lean-forward="false" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#1130#1272#0" expanded="false" />
+            <element signature="e#1396#1638#0" expanded="false" />
+            <marker date="1535049628341" expanded="true" signature="3333:3574" ph="query...{&#10;              myUser(token: &quot;${this.state.token}&quot;){&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }&#10;          }" />
+            <marker date="1535049628341" expanded="true" signature="3339:3574" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3355:3361" ph="myUser...myUser" />
+            <marker date="1535049628341" expanded="true" signature="3355:3562" ph="myUser...{&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }" />
+            <marker date="1535049628341" expanded="true" signature="3361:3385" ph="(...)" />
+            <marker date="1535049628341" expanded="true" signature="3362:3367" ph="token...token" />
+            <marker date="1535049628341" expanded="true" signature="3385:3562" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3405:3410" ph="login...login" />
+            <marker date="1535049628341" expanded="true" signature="3429:3436" ph="isAdmin...isAdmin" />
+            <marker date="1535049628341" expanded="true" signature="3455:3464" ph="isNewUser...isNewUser" />
+            <marker date="1535049628341" expanded="true" signature="3483:3492" ph="firstName...firstName" />
+            <marker date="1535049628341" expanded="true" signature="3511:3521" ph="secondName...secondName" />
+            <marker date="1535049628341" expanded="true" signature="3540:3546" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buildings.geojson" />
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#215#272#0" expanded="true" />
+            <element signature="n#!!block;n#loadChat#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#loadCommerce#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#save#0;n#Map#0" expanded="false" />
+            <element signature="e#7547#10333#0" expanded="false" />
+            <element signature="e#10344#12371#0" expanded="false" />
+            <marker date="1535058117072" expanded="true" signature="1475:1557" ph="query...{&#10;              buildingsJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="1481:1488" ph="GeoJson...GeoJson" />
+            <marker date="1535058117072" expanded="true" signature="1489:1557" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="1505:1518" ph="buildingsJson...buildingsJson" />
+            <marker date="1535058117072" expanded="true" signature="1533:1545" ph="commerceJson...commerceJson" />
+            <marker date="1535058117072" expanded="true" signature="4375:4836" ph="query...{&#10;              buildingsJson&#10;              commerceJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="4381:4387" ph="AllMes...AllMes" />
+            <marker date="1535058117072" expanded="true" signature="4381:4392" ph="AllMessages...AllMessages" />
+            <marker date="1535058117072" expanded="true" signature="4393:4836" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4409:4420" ph="allMessages...allMessages" />
+            <marker date="1535058117072" expanded="true" signature="4409:4824" ph="allMessages...{&#10;                  text&#10;                  date&#10;                  user{&#10;                      firstName&#10;                      secondName&#10;                  }&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="4420:4824" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4440:4444" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4463:4472" ph="messageId...messageId" />
+            <marker date="1535058117072" expanded="true" signature="4491:4495" ph="date...date" />
+            <marker date="1535058117072" expanded="true" signature="4514:4526" ph="replyMessage...replyMessage" />
+            <marker date="1535058117072" expanded="true" signature="4514:4699" ph="replyMessage...{&#10;                      user{&#10;                          login&#10;                      }&#10;                      text&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4526:4699" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4550:4554" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4550:4652" ph="user...{&#10;                          login&#10;                      }" />
+            <marker date="1535058117072" expanded="true" signature="4554:4652" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4582:4591" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4582:4628" ph="login...login" />
+            <marker date="1535058117072" expanded="true" signature="4618:4628" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="4675:4679" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4718:4722" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4718:4808" ph="user...{&#10;                      firstName&#10;                      secondName&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4722:4808" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4746:4755" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4778:4788" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="5188:5477" ph="query...{&#10;              commerceById(id: 53){&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="5193:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5193:5477" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5194:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5209:5221" ph="commerceById...commerceById" />
+            <marker date="1535058117072" expanded="true" signature="5209:5465" ph="commerceById...{&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="5221:5232" ph="(...)" />
+            <marker date="1535058117072" expanded="true" signature="5222:5224" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5232:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5252:5256" ph="name...name" />
+            <marker date="1535058117072" expanded="true" signature="5275:5285" ph="rentalRate...rentalRate" />
+            <marker date="1535058117072" expanded="true" signature="5304:5311" ph="address...address" />
+            <marker date="1535058117072" expanded="true" signature="5330:5332" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5351:5355" ph="area...area" />
+            <marker date="1535058117072" expanded="true" signature="5374:5381" ph="idHouse...idHouse" />
+            <marker date="1535058117072" expanded="true" signature="5420:5426" ph="status...status" />
+            <marker date="1535058117072" expanded="true" signature="5445:5449" ph="type...type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buildings.geojson" />
+    <entry file="file://$PROJECT_DIR$/src/InnoMini/Style.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InnoMini/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/InnoMini/Button.js" />
+    <entry file="file://$PROJECT_DIR$/graphql.schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="57" lean-forward="false" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="101" column="19" lean-forward="false" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/polyfills.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-711">
+          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1806" column="8" lean-forward="false" selection-start-line="1806" selection-start-column="8" selection-end-line="1806" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/inno4d-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="108" lean-forward="false" selection-start-line="45" selection-start-column="108" selection-end-line="45" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="57" column="26" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#1130#1272#0" expanded="false" />
+            <element signature="e#1396#1638#0" expanded="false" />
+            <marker date="1535049628341" expanded="true" signature="3333:3574" ph="query...{&#10;              myUser(token: &quot;${this.state.token}&quot;){&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }&#10;          }" />
+            <marker date="1535049628341" expanded="true" signature="3339:3574" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3355:3361" ph="myUser...myUser" />
+            <marker date="1535049628341" expanded="true" signature="3355:3562" ph="myUser...{&#10;                  login&#10;                  isAdmin&#10;                  isNewUser&#10;                  firstName&#10;                  secondName&#10;                  userId&#10;              }" />
+            <marker date="1535049628341" expanded="true" signature="3361:3385" ph="(...)" />
+            <marker date="1535049628341" expanded="true" signature="3362:3367" ph="token...token" />
+            <marker date="1535049628341" expanded="true" signature="3385:3562" ph="{...}" />
+            <marker date="1535049628341" expanded="true" signature="3405:3410" ph="login...login" />
+            <marker date="1535049628341" expanded="true" signature="3429:3436" ph="isAdmin...isAdmin" />
+            <marker date="1535049628341" expanded="true" signature="3455:3464" ph="isNewUser...isNewUser" />
+            <marker date="1535049628341" expanded="true" signature="3483:3492" ph="firstName...firstName" />
+            <marker date="1535049628341" expanded="true" signature="3511:3521" ph="secondName...secondName" />
+            <marker date="1535049628341" expanded="true" signature="3540:3546" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="82" column="62" lean-forward="true" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" column="61" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1535047003144" expanded="true" signature="1395:1991" ph="mutation...{&#10;                authUser(password: &quot;${password}&quot;, username: &quot;${login}&quot;){&#10;                    accessToken&#10;                    refreshToken&#10;                }&#10;            }" />
+            <marker date="1535047003144" expanded="true" signature="1403:1991" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1421:1429" ph="editUser...editUser" />
+            <marker date="1535047003144" expanded="true" signature="1421:1977" ph="editUser...{&#10;                    user{&#10;                        firstName&#10;                    }&#10;                }" />
+            <marker date="1535047003144" expanded="true" signature="1429:1759" ph="(...)" />
+            <marker date="1535047003144" expanded="true" signature="1429:1780" ph="(...)" />
+            <marker date="1535047003144" expanded="true" signature="1430:1435" ph="input...input" />
+            <marker date="1535047003144" expanded="true" signature="1430:1749" ph="input...{&#10;                    firstName: &quot;aaaa&quot;&#10;                }" />
+            <marker date="1535047003144" expanded="true" signature="1437:1463" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1437:1666" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1437:1749" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1459:1461" ph="id...id" />
+            <marker date="1535047003144" expanded="true" signature="1509:1518" ph="isNewUser...isNewUser" />
+            <marker date="1535047003144" expanded="true" signature="1546:1555" ph="firstName...firstName" />
+            <marker date="1535047003144" expanded="true" signature="1605:1615" ph="secondName...secondName" />
+            <marker date="1535047003144" expanded="true" signature="1751:1756" ph="token...token" />
+            <marker date="1535047003144" expanded="true" signature="1780:1977" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1802:1806" ph="user...user" />
+            <marker date="1535047003144" expanded="true" signature="1802:1959" ph="user...{&#10;                        firstName&#10;                    }" />
+            <marker date="1535047003144" expanded="true" signature="1806:1959" ph="{...}" />
+            <marker date="1535047003144" expanded="true" signature="1832:1841" ph="firstName...firstName" />
+            <marker date="1535047003144" expanded="true" signature="1866:1876" ph="secondName...secondName" />
+            <marker date="1535047003144" expanded="true" signature="1901:1906" ph="login...login" />
+            <marker date="1535047003144" expanded="true" signature="1931:1937" ph="userId...userId" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="348" column="29" lean-forward="true" selection-start-line="348" selection-start-column="29" selection-end-line="348" selection-end-column="29" />
+          <folding>
+            <element signature="e#215#272#0" expanded="true" />
+            <element signature="n#!!block;n#loadChat#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#loadCommerce#0;n#Map#0" expanded="false" />
+            <element signature="n#!!block;n#save#0;n#Map#0" expanded="false" />
+            <element signature="e#7547#10333#0" expanded="false" />
+            <element signature="e#10344#12371#0" expanded="false" />
+            <marker date="1535058117072" expanded="true" signature="1475:1557" ph="query...{&#10;              buildingsJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="1481:1488" ph="GeoJson...GeoJson" />
+            <marker date="1535058117072" expanded="true" signature="1489:1557" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="1505:1518" ph="buildingsJson...buildingsJson" />
+            <marker date="1535058117072" expanded="true" signature="1533:1545" ph="commerceJson...commerceJson" />
+            <marker date="1535058117072" expanded="true" signature="4375:4836" ph="query...{&#10;              buildingsJson&#10;              commerceJson&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="4381:4387" ph="AllMes...AllMes" />
+            <marker date="1535058117072" expanded="true" signature="4381:4392" ph="AllMessages...AllMessages" />
+            <marker date="1535058117072" expanded="true" signature="4393:4836" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4409:4420" ph="allMessages...allMessages" />
+            <marker date="1535058117072" expanded="true" signature="4409:4824" ph="allMessages...{&#10;                  text&#10;                  date&#10;                  user{&#10;                      firstName&#10;                      secondName&#10;                  }&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="4420:4824" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4440:4444" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4463:4472" ph="messageId...messageId" />
+            <marker date="1535058117072" expanded="true" signature="4491:4495" ph="date...date" />
+            <marker date="1535058117072" expanded="true" signature="4514:4526" ph="replyMessage...replyMessage" />
+            <marker date="1535058117072" expanded="true" signature="4514:4699" ph="replyMessage...{&#10;                      user{&#10;                          login&#10;                      }&#10;                      text&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4526:4699" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4550:4554" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4550:4652" ph="user...{&#10;                          login&#10;                      }" />
+            <marker date="1535058117072" expanded="true" signature="4554:4652" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4582:4591" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4582:4628" ph="login...login" />
+            <marker date="1535058117072" expanded="true" signature="4618:4628" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="4675:4679" ph="text...text" />
+            <marker date="1535058117072" expanded="true" signature="4718:4722" ph="user...user" />
+            <marker date="1535058117072" expanded="true" signature="4718:4808" ph="user...{&#10;                      firstName&#10;                      secondName&#10;                  }" />
+            <marker date="1535058117072" expanded="true" signature="4722:4808" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="4746:4755" ph="firstName...firstName" />
+            <marker date="1535058117072" expanded="true" signature="4778:4788" ph="secondName...secondName" />
+            <marker date="1535058117072" expanded="true" signature="5188:5477" ph="query...{&#10;              commerceById(id: 53){&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }&#10;          }" />
+            <marker date="1535058117072" expanded="true" signature="5193:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5193:5477" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5194:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5209:5221" ph="commerceById...commerceById" />
+            <marker date="1535058117072" expanded="true" signature="5209:5465" ph="commerceById...{&#10;                  name&#10;                  rentalRate&#10;                  address&#10;                  id&#10;                  idHouse&#10;                  p&#10;                  status&#10;                  type&#10;              }" />
+            <marker date="1535058117072" expanded="true" signature="5221:5232" ph="(...)" />
+            <marker date="1535058117072" expanded="true" signature="5222:5224" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5232:5465" ph="{...}" />
+            <marker date="1535058117072" expanded="true" signature="5252:5256" ph="name...name" />
+            <marker date="1535058117072" expanded="true" signature="5275:5285" ph="rentalRate...rentalRate" />
+            <marker date="1535058117072" expanded="true" signature="5304:5311" ph="address...address" />
+            <marker date="1535058117072" expanded="true" signature="5330:5332" ph="id...id" />
+            <marker date="1535058117072" expanded="true" signature="5351:5355" ph="area...area" />
+            <marker date="1535058117072" expanded="true" signature="5374:5381" ph="idHouse...idHouse" />
+            <marker date="1535058117072" expanded="true" signature="5420:5426" ph="status...status" />
+            <marker date="1535058117072" expanded="true" signature="5445:5449" ph="type...type" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

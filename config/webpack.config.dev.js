@@ -24,6 +24,7 @@ const cesiumWorkers = '../Build/Cesium/Workers';
 const isDev = true;
 
 module.exports = {
+    entry: ["babel-polyfill", "../src/app.js"],
     devtool: isDev && 'source-map',
     output: {
       publicPath: '/'
@@ -114,6 +115,7 @@ module.exports = {
       contentBase: [path.join(__dirname, '../public'), path.join(__dirname, '../dist')],
       inline: true,
       compress: true,
+      host: '10.240.22.238',
       port: devServerConfig.port,
       proxy: devServerConfig.proxy,
       open: devServerConfig.open,
